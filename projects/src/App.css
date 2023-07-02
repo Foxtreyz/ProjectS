@@ -1,0 +1,41 @@
+.App {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.centered {
+  text-align: center;
+}
+
+.logo-container {
+  position: relative;
+  display: inline-block;
+}
+
+.logo {
+  width: 50vw;
+  height: auto;
+}
+
+.loginButton {
+  position: absolute;
+  font-family: 'Chopsic', sans-serif;
+  top: 70%; /* Modify HERE the position of the login button */
+  left: 29%;
+  transform: translate(-50%, -50%) rotate(-45deg);
+  color: rgb(142, 255, 185);
+  font-size: 3vw;
+}
+
+.registerButton {
+  position: absolute;
+  font-family: 'Chopsic', sans-serif;
+  top: 40%;
+  left: 67%;
+  transform: translate(-50%, -50%) rotate(-45deg);
+  color: rgb(255, 148, 241);
+  font-size: 300%;
+}
