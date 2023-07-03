@@ -1,4 +1,8 @@
+<p>Temporal README. This may change!</p>
+
 # Project S
+
+<img src="/src/projects.png" style="width: 30vw;height: auto;" />
 
 # What is Project S?
 
