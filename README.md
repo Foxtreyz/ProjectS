@@ -14,6 +14,6 @@ The project is and will be always Open Source and licensed under the MIT License
 
 Also, collaborators and helpers will get an special mention once the page is ready.
 
-# Why isn't there code either screenshots here yet?
+# Documentation
 
-Project development just started today! July 2th 2023. Give me time to start creating the very basic template of the proyect.
+I'm making the documentation as I develop the app!
