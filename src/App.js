@@ -6,17 +6,14 @@ function App() {
     <div className="App">
       <div className="centered">
         <img src={projectsLogo} alt="Project S logo. May change!" className="logo" />
-        <div>
-          <span className="loginButton">Login</span>
-          <span className="registerButton">Register now!</span>
+        <div className="menu">
+          <span className="menuItem">START "PROJECT S-ING" NOW!</span>
         </div>
       </div>
-      <div className="topLeft">
-        <div className="topLeft-image">
-          
-        </div>
-        <div className="topLeft-text">
-
+      <div className="info1">
+        <img src={projectsLogo} alt="NO RATE LIMITS" className="info1-image" />
+        <div className="info1-text">
+          WE DON'T RATE LIMIT OUR USERS!
         </div>
       </div>
     </div>
